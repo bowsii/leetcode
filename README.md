@@ -7,6 +7,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/bowsii/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bowsii/leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/bowsii/leetcode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +51,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bowsii/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bowsii/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
