@@ -25,6 +25,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Memoization
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/bowsii/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bowsii/leetcode/tree/master/0326-power-of-three) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
