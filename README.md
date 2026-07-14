@@ -13,6 +13,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/bowsii/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bowsii/leetcode/tree/master/0070-climbing-stairs) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
@@ -23,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
