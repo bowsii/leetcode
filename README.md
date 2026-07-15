@@ -10,6 +10,7 @@
 | [0231-power-of-two](https://github.com/bowsii/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bowsii/leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/bowsii/leetcode/tree/master/0415-add-strings) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bowsii/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/bowsii/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
