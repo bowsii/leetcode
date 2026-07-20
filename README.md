@@ -28,6 +28,7 @@
 | [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
+| [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Memoization
 |  |
@@ -37,11 +38,13 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/bowsii/leetcode/tree/master/0415-add-strings) |
+| [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
