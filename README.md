@@ -27,6 +27,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
+| [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
 | [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
@@ -62,6 +64,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -75,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
 |  |
