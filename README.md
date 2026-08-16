@@ -49,12 +49,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/bowsii/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/bowsii/leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/bowsii/leetcode/tree/master/0415-add-strings) |
 ## Queue
