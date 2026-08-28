@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bowsii/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/bowsii/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bowsii/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/bowsii/leetcode/tree/master/0231-power-of-two) |
@@ -26,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bowsii/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bowsii/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -40,6 +42,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/bowsii/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
 | [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
