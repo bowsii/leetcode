@@ -30,6 +30,7 @@
 | [0048-rotate-image](https://github.com/bowsii/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bowsii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bowsii/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/bowsii/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/bowsii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -54,6 +56,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/bowsii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/bowsii/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
