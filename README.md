@@ -34,6 +34,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/bowsii/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/bowsii/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Memoization
@@ -60,6 +61,7 @@
 | [0205-isomorphic-strings](https://github.com/bowsii/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/bowsii/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/bowsii/leetcode/tree/master/1143-longest-common-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bowsii/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
