@@ -1,7 +1,6 @@
 class Solution:
     def dailyTemperatures(self, t: List[int]) -> List[int]:
-        n=len(t)
-        res = [0]*n
+        res = [0]*len(t)
         st = []
         for i,temp in enumerate(t):
             while st and t[st[-1]] < temp:
