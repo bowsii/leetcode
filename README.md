@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bowsii/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/bowsii/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bowsii/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bowsii/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/bowsii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/bowsii/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
@@ -70,6 +72,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bowsii/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/bowsii/leetcode/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/bowsii/leetcode/tree/master/0415-add-strings) |
@@ -96,6 +99,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/bowsii/leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Divide and Conquer
