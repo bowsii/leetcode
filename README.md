@@ -40,6 +40,7 @@
 | [0496-next-greater-element-i](https://github.com/bowsii/leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/bowsii/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/bowsii/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bowsii/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/bowsii/leetcode/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
@@ -56,6 +57,7 @@
 | [0054-spiral-matrix](https://github.com/bowsii/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bowsii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/bowsii/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bowsii/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bowsii/leetcode/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
@@ -155,6 +157,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/bowsii/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bowsii/leetcode/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bowsii/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/bowsii/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bowsii/leetcode/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -174,6 +177,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/bowsii/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bowsii/leetcode/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bowsii/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0695-max-area-of-island](https://github.com/bowsii/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bowsii/leetcode/tree/master/0733-flood-fill) |
 ## Monotonic Stack
 |  |
@@ -202,4 +206,5 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bowsii/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bowsii/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
