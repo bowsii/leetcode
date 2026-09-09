@@ -43,6 +43,7 @@
 | [0238-product-of-array-except-self](https://github.com/bowsii/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/bowsii/leetcode/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/bowsii/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bowsii/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/bowsii/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bowsii/leetcode/tree/master/0733-flood-fill) |
@@ -219,4 +220,8 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/bowsii/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/bowsii/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
