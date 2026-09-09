@@ -11,6 +11,7 @@
 | [0231-power-of-two](https://github.com/bowsii/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bowsii/leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/bowsii/leetcode/tree/master/0415-add-strings) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bowsii/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bowsii/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/bowsii/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/bowsii/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -141,6 +142,7 @@
 | [0206-reverse-linked-list](https://github.com/bowsii/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bowsii/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bowsii/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bowsii/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
