@@ -22,6 +22,7 @@
 | [0070-climbing-stairs](https://github.com/bowsii/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/bowsii/leetcode/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/bowsii/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/bowsii/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
 |  |
@@ -46,6 +47,7 @@
 | [0695-max-area-of-island](https://github.com/bowsii/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/bowsii/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/bowsii/leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/bowsii/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bowsii/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
