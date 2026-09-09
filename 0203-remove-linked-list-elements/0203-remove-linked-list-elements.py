@@ -5,11 +5,23 @@
 #         self.next = next
 class Solution:
     def removeElements(self, head: Optional[ListNode], val: int) -> Optional[ListNode]:
-        ans  = ListNode(0,head)
-        d = ans
+        if not head:
+            return head
 
-        while d:
-            while d.next and d.next.val==val:
-                d.next = d.next.next
-            d = d.next
-        return ans.next
+        arr = []
+
+        curr = head
+
+        while curr:
+            if curr.val != val:
+                arr.append(curr.val)
+
+            curr = curr.next
+
+        new_head = ListNode()
+        new_curr = new_head
+        for n in arr:
+            new_curr.next = ListNode(n)
+            new_curr = new_curr.next
+
+        return new_head.next
