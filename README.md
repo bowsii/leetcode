@@ -13,6 +13,7 @@
 | [0326-power-of-three](https://github.com/bowsii/leetcode/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/bowsii/leetcode/tree/master/0415-add-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bowsii/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bowsii/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bowsii/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/bowsii/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/bowsii/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -56,6 +57,7 @@
 | [1260-shift-2d-grid](https://github.com/bowsii/leetcode/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/bowsii/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bowsii/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bowsii/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/bowsii/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Memoization
 |  |
