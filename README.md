@@ -35,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/bowsii/leetcode/tree/master/0016-3sum-closest) |
 | [0048-rotate-image](https://github.com/bowsii/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bowsii/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
@@ -131,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/bowsii/leetcode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/bowsii/leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bowsii/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -159,6 +161,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/bowsii/leetcode/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/bowsii/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/bowsii/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bowsii/leetcode/tree/master/0876-middle-of-the-linked-list) |
