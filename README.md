@@ -11,6 +11,7 @@
 | [0070-climbing-stairs](https://github.com/bowsii/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/bowsii/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/bowsii/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/bowsii/leetcode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/bowsii/leetcode/tree/master/0415-add-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/bowsii/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bowsii/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/bowsii/leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/bowsii/leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0231-power-of-two](https://github.com/bowsii/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bowsii/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/bowsii/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/bowsii/leetcode/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/bowsii/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
