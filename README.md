@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/bowsii/leetcode/tree/master/0016-3sum-closest) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bowsii/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/bowsii/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bowsii/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
@@ -256,6 +257,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bowsii/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/bowsii/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
