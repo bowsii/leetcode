@@ -27,6 +27,7 @@
 | [0055-jump-game](https://github.com/bowsii/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bowsii/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bowsii/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/bowsii/leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/bowsii/leetcode/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/bowsii/leetcode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/bowsii/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -48,6 +49,7 @@
 | [0055-jump-game](https://github.com/bowsii/leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/bowsii/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bowsii/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/bowsii/leetcode/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/bowsii/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bowsii/leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
