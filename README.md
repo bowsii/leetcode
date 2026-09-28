@@ -44,6 +44,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/bowsii/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bowsii/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/bowsii/leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/bowsii/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/bowsii/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bowsii/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bowsii/leetcode/tree/master/0053-maximum-subarray) |
@@ -315,4 +316,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bowsii/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/bowsii/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
