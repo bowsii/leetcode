@@ -117,6 +117,7 @@
 | [0415-add-strings](https://github.com/bowsii/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/bowsii/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/bowsii/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bowsii/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -190,6 +191,7 @@
 | [0234-palindrome-linked-list](https://github.com/bowsii/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/bowsii/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/bowsii/leetcode/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bowsii/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -303,4 +305,8 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/bowsii/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/bowsii/leetcode/tree/master/0055-jump-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bowsii/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
