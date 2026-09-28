@@ -102,6 +102,7 @@
 | [0205-isomorphic-strings](https://github.com/bowsii/leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bowsii/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/bowsii/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bowsii/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/bowsii/leetcode/tree/master/0496-next-greater-element-i) |
@@ -113,6 +114,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/bowsii/leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/bowsii/leetcode/tree/master/0205-isomorphic-strings) |
+| [0383-ransom-note](https://github.com/bowsii/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/bowsii/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/bowsii/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/bowsii/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/bowsii/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/bowsii/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/bowsii/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
